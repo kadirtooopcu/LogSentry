@@ -2,7 +2,6 @@ import requests
 
 class IntelManager:
     def __init__(self):
-        # Buraya kendi API key'ini ekleyebilirsin, şimdilik test için boş bırakalım
         self.api_key = "YOUR_API_KEY_HERE" 
         
     def check_ip(self, ip):
