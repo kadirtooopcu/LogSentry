@@ -1,0 +1,4 @@
+2026-04-25 21:00:10 device_id=SOPHOS_FW log_id=0101 user=admin status=failed from=185.123.45.67
+2026-04-25 21:05:00 device_id=SOPHOS_FW status=accepted user=system from=8.8.8.8
+2026-04-25 21:10:22 device_id=SOPHOS_FW threat=port_scan severity=medium from=91.234.11.22
+2026-04-25 21:15:45 device_id=SOPHOS_FW intrusion_detected src_ip=185.123.45.67 action=blocked
