@@ -46,6 +46,7 @@ LogSentry/
 │── app.py               # Flask Web Interface
 │── requirements.txt     # Bağımlılıklar
 └── README.md            # Proje dokümantasyonu
+
 🎯 Yol Haritası (Roadmap)
 [ ] Gerçek zamanlı AbuseIPDB ve VirusTotal API entegrasyonu.
 
